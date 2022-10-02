@@ -4,8 +4,7 @@
 <h3 align="center">assembly enjoyer</h3>
 
 
-[![Spotify](https://erencan-02.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ojm4ex4wjiy4y8bklpvxabhk0&count=5)
 
 
 
