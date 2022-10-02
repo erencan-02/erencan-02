@@ -4,8 +4,9 @@
 <h3 align="center">assembly enjoyer</h3>
 
 
-[<img src="https://https://novatorem-eta-blue-77.vercel.app/api/spotify-playing"/>]
-[![Spotify](https://erencan-02.vercel.app/api/spotify)](https://open.spotify.com/user/ojm4ex4wjiy4y8bklpvxabhk0)
+[![Spotify](https://erencan-02.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 
 
 
