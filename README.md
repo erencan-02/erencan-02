@@ -1,10 +1,10 @@
-
+<!--
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">assembly enjoyer</h3>
 
 
-<!--
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erencan-02" alt="erencan-02" /></a>
 </p>
